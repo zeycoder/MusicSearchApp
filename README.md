@@ -8,7 +8,7 @@ React native'de api'den alınan müzikleri arayarak bulabileceğimiz bir uygulam
 
 `npm install`
 
-`expo start`
+`npx expo start`
 
 ## Screen Shots
 ### Screen Shot 1
